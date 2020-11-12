@@ -35,9 +35,6 @@ To toggle the theme, change the `isDark` variable in `main.dart`.
 `true` for dark and `false` for light.
 
 
-## 🤓 Author(s)
-**Olusegun Festus Babajide** [![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
-
 
 ## 🔖 LICENCE
 [WTFPL](http://www.wtfpl.net/about/)
